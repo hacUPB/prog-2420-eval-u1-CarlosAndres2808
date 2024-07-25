@@ -4,7 +4,7 @@
 [Mapa_mental](https://www.canva.com/design/DAGL6LXdxLM/PmhVAM873ThNpCG4cqXjZw/edit)
 
 [Imagenes partes de la computadora](https://www.canva.com/design/DAGL6LXdxLM/PmhVAM873ThNpCG4cqXjZw/edit)
-[Imagenes_partes_de_la_computadora] (https://www.canva.com/design/DAGL6LXdxLM/PmhVAM873ThNpCG4cqXjZw/edit)
+![Imagenes_partes_de_la_computadora] (https://www.canva.com/design/DAGL6LXdxLM/PmhVAM873ThNpCG4cqXjZw/edit)
 
 ConceptoABC:(https://conceptoabc.com/partes-de-la-computadora/#:~:text=Partes%20de%20la%20computadora%201%20Tarjeta%20madre%20Tambi%C3%A9n,de%20alimentaci%C3%B3n%20...%208%20Monitor%20...%20M%C3%A1s%20elementos)
 
