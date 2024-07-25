@@ -11,6 +11,8 @@ ConceptoABC:(https://conceptoabc.com/partes-de-la-computadora/#:~:text=Partes%20
 
 ## SOLUCION A LAS PREGUNTAS:
 
+### FUNCION PRINCIPAL DE CADA COMPONENTE:
+
 1-Tarjeta madre: Su principal función es actuar como el centro al que son conectados los demas dispositivos de la computadora.(https://www.cavsi.com/espanol/blog/la-funcion-la-tarjeta-madre/#:~:text=Funciones%20de%20la%20tarjeta%20madre%201%20Funciona%20como,de%20datos%20...%204%20Permite%20conectar%20perif%C3%A9ricos%20)
 
 2-Microprosesador: Su principal función es la ejecución de programas (https://concepto.de/microprocesador/)
@@ -36,3 +38,21 @@ ConceptoABC:(https://conceptoabc.com/partes-de-la-computadora/#:~:text=Partes%20
 12-Disquera: Su principal función es leer y escribir datos en disquetes. (https://www.bing.com/search?q=función+principal+de+la+disquera+de+un+computador&qs=NWT&pq=función+principal+de+la+disquera+de+un+comp&sk=NW_XFC6&sc=9-43&cvid=EE91EAF449C64215B6C42365F82CD04A&FORM=QBRE&sp=7&ghc=1&lq=0)
 
 13-Software: Su principal funcion es permitir la interacción del usuario con el hardware del computador. (https://aleph.org.mx/cuales-son-las-funciones-del-software)
+
+#### INTERACCION HARDWARE CON EL SOFTWARE:
+-Los controladores permiten que el hardware y el software interactuen de manera eficiente.
+-El hardware brinda la capacidad fisica necesaria, el software ofrece las instrucciones y lógica para realizar las tareas. 
+(https://elpuntotecnicodelordenador.es/que-relacion-hay-entre-el-hardware-y-el-software/) 
+
+#### PRINCIPAL FUNCIÓN DE LA CPU Y SUS PARTES MAS IMPORTANTES:
+-Su principal función es la recepción de instrucciones cuando se abre un programa en el ordenador
+las partes mas impotantes son: 
+-Unidad de control
+-Unidad aritmética logica
+-Unidad de memoria
+(https://www.info-computer.com/blog/que-es-y-cual-es-la-funcion-de-la-cpu.html#:~:text=Funci%C3%B3n%20de%20la%20CPU%201%201.%20Recepci%C3%B3n%20de,...%204%204.%20Control%20de%20otro%20hardware%20)
+(https://www.profesionalreview.com/2020/01/25/partes-de-un-procesador-cpu/#:~:text=Las%203%20partes%20principales%20del%20procesador%20son%20las,las%20programaciones%20y%20datos%20de%20la%20CPU.%20)
+
+##### VELOCIDAD DE LA CPU:
+-Es conocida como velocidad de reloj de un dispositivo, se conoce así por la cantidad de acciones que se pueden ejecutar en un período de tiempo. (https://concepto.de/cpu/)
+
