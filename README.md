@@ -28,4 +28,4 @@ Es un dispositivo de entrada que permite la lectura de disquetes o discos flexil
 13. Software: 
 Es la parte del computador que representa todos los elementos intangibles que requiere el equipo para funcionar, el software comprende las instrucciones, aplicaciones y comandos que emplea el ordenador de manera automática,programada o dirigida para llevar acabo todo tipo de tareas.
 
-Partes de la computadora:(https://conceptoabc.com/partes-de-la-computadora/#:~:text=Partes%20de%20la%20computadora%201%20Tarjeta%20madre%20Tambi%C3%A9n,de%20alimentaci%C3%B3n%20...%208%20Monitor%20...%20M%C3%A1s%20elementos)
+ConceptoABC:(https://conceptoabc.com/partes-de-la-computadora/#:~:text=Partes%20de%20la%20computadora%201%20Tarjeta%20madre%20Tambi%C3%A9n,de%20alimentaci%C3%B3n%20...%208%20Monitor%20...%20M%C3%A1s%20elementos)
