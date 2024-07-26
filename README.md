@@ -8,6 +8,7 @@
 ### Función principal de cada componente: 
 
 1-Tarjeta madre: Su principal función es actuar como el centro al que son conectados los demas dispositivos de la computadora.
+¡[Tarjeta_madre](https://2.bp.blogspot.com/-exQUJdGAAkE/WJ9mVoreEQI/AAAAAAAAABU/Sg7Cd4Qql8IFtIw5DykYBmNpc15XiDmBgCLcB/s1600/evoluTarjeta-madre-Z77-FTW-de-EVGA.jpg)
 
 2-Microprosesador: Su principal función es la ejecución de programas. 
 
