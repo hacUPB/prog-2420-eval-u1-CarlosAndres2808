@@ -11,28 +11,40 @@
 ¡[Tarjeta_madre](https://2.bp.blogspot.com/-exQUJdGAAkE/WJ9mVoreEQI/AAAAAAAAABU/Sg7Cd4Qql8IFtIw5DykYBmNpc15XiDmBgCLcB/s1600/evoluTarjeta-madre-Z77-FTW-de-EVGA.jpg)
 
 2-Microprosesador: Su principal función es la ejecución de programas. 
+[Microprocesador](https://img.blogs.es/anexom/wp-content/uploads/2019/12/12237986156_dfc7978bed_k.jpg)
 
 3-Memoria RAM: Su principal funcion es cargar información y ejecutar programas de manera temporal y aleatoria. 
+[Memoria_RAM](https://th.bing.com/th/id/OIP.bvPkAuFxyumyXnCNZQojBAHaEo?rs=1&pid=ImgDetMain)
 
 4-Disco duro: Su principal función es almacenar informacion de forma permanente.
+[Disco duro](https://images-na.ssl-images-amazon.com/images/I/71kzYTDxHcL._AC_SL1500_.jpg)
 
-5-Tarjeta de video: Su función principal es procesar los datos para convertirlos en informacion accesible para el usuario. 
+5-Tarjeta de video: Su función principal es procesar los datos para convertirlos en informacion accesible para el usuario.
+[Tarjeta de video](https://th.bing.com/th/id/R.9baaa7327286be345e112be45737d925?rik=yeoCjBSyJYalsg&pid=ImgRaw&r=0) 
 
 6-Tarjeta de red: Su función principal es proporcionar el enlace entre las computadoras y la red. 
+[Tarjeta de red](https://th.bing.com/th/id/OIP.XVLqNquHcIFgNfax2vleZQHaEa?rs=1&pid=ImgDetMain)
 
 7-Fuente de alimentación: Su función principal es convertir la corriente alterna en corriente directa en la computadora. 
+[Fuente de alimentación](https://th.bing.com/th/id/R.ef937a1fdbc8d2301965a8606483f441?rik=2RuDRx%2byT37IAQ&pid=ImgRaw&r=0)
 
 8-Pantalla: Su principal función es mostrar la innformación del equipo como imagenes, videos o texto. 
+[Pantalla](https://elektra.vteximg.com.br/arquivos/ids/341335-1000-1000/1005424.jpg?v=636403380894430000)
 
 9-Mouse: Su principal función es facilitar la interacción del usuario con los interfaces de entorno gráfico de las computadoras.
+[Mouse](https://th.bing.com/th/id/OIP.18VISeO6g2lF0_HzRyVrtgHaHa?rs=1&pid=ImgDetMain)
 
 10-Teclado: Su principal función es ingresar datos en la computadora. 
+[Teclado](https://th.bing.com/th/id/OIP.pj-MepQCZDU9-DNjBU96_QHaEK?rs=1&pid=ImgDetMain)
 
 11-Unidad lectora de discos: Su principal función es leer y escribir datos en discos ópticos. 
+[Unidad lectora de discos](https://th.bing.com/th/id/OIP.lQHXaI1ajIHfVbK_ExRv_wEyDM?rs=1&pid=ImgDetMain)
 
 12-Disquera: Su principal función es leer y escribir datos en disquetes. 
+[disquera](https://th.bing.com/th/id/OIP.dpqYWZj2K7KjGJ4SuFSW8QHaGG?rs=1&pid=ImgDetMain)
 
 13-Software: Su principal funcion es permitir la interacción del usuario con el hardware del computador. 
+[Software](https://th.bing.com/th/id/OIP.SSGjE2SeqUzl5HK0bbNG-AHaFj?rs=1&pid=ImgDetMain)
 
 ### Interacción hardware con el software:
 -Los controladores permiten que el hardware y el software interactuen de manera eficiente.
