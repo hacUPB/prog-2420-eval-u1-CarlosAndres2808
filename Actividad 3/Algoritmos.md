@@ -49,7 +49,7 @@ Inicio
 
         IMPRIMIR "Ana no ha aprobado. Su promedio es " + promedio
     FIN SI
-    
+
 FIN
 
 ## Problema 2:
@@ -75,20 +75,27 @@ FIN
 ### Pseudocódigo
 
 Inicio
-    Definir los registros de velocidad y tiempo
-    velocidades = [lista de velocidades]
-    tiempos = [lista de tiempos]
-    Iniciar la variable para la distancia total
-    distancia_total = 0
-    Calcular la distancia recorrida en cada intervalo
+
+    -Definir los registros de velocidad y tiempo
+
+        velocidades = [lista de velocidades]
+        tiempos = [lista de tiempos]
+
+    -Iniciar la variable para la distancia total
+        distancia_total = 0
+    -Calcular la distancia recorrida en cada intervalo
+
     PARA i DESDE 0 HASTA(velocidades) - 1 HACER
         velocidad = velocidades[i]
         tiempo = tiempos[i]
         distancia_intervalo = velocidad * tiempo
         distancia_total = distancia_total + distancia_intervalo
+
     FIN PARA
-    Mostrar el resultado
-    IMPRIMIR "La distancia total recorrida es " + distancia_total
+
+    Imprimir el resultado
+        "La distancia total recorrida es " + distancia_total
+        
 FIN
 
 ## Problema 3: 
