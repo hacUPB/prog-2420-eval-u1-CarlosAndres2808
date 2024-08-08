@@ -25,22 +25,31 @@
 
 Inicio
     Definir la lista de calificaciones
-    calificaciones = [lista de calificaciones]
+        calificaciones = [lista de calificaciones]
+
     Iniciar variables
-    suma = 0
-    cantidad = (calificaciones) // Número de calificaciones
+        suma = 0
+        cantidad = (calificaciones) // Número de calificaciones
+
     Calcular la suma de todas las calificaciones
-    PARA cada calificacion en calificaciones HACER
+         PARA cada calificacion en calificaciones HACER
         suma = suma + calificacion
+
     FIN PARA
+
     Calcular el promedio
         promedio = suma / cantidad
+
     Verificar si el promedio es suficiente para aprobar
-    SI promedio >= 3.0 ENTONCES
+        SI promedio >= 3.0 ENTONCES
+        
         IMPRIMIR "Ana ha aprobado con un promedio de " + promedio
+
     SINO
+
         IMPRIMIR "Ana no ha aprobado. Su promedio es " + promedio
     FIN SI
+    
 FIN
 
 ## Problema 2:
